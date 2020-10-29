@@ -13,7 +13,7 @@ python3 hyperparameter.py
 ```
 ---
 
-Autoencoder
+Autoencoder -- (IN PROGRESS)
 ==================================
 
 ### Autoencoder 
