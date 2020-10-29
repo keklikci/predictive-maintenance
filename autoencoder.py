@@ -3,7 +3,7 @@
     File name: autoencoder.py
     Author: kaanguney
     Date created: 10/27/2020
-    Date last modified: 10/27/2020
+    Date last modified: 10/29/2020
     Python Version: 3.6.9
 """
 
