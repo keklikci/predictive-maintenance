@@ -1,0 +1,5 @@
+recall (sensitivity): 37.93%
+specificity: 80.71%
+precision (PPV): 15.36%
+NPV: 93.37%
+F-1: 21.86%
